@@ -1,0 +1,14 @@
+{
+  "andros": {
+    "base_url": "http://your-api-server.com/execute",
+    "username": "Axora",
+    "key": "FMER",
+    "status": "active"
+  },
+  "ios": {
+    "base_url": "http://your-api-server.com/execute",
+    "username": "Axora",
+    "key": "FMER",
+    "status": "inactive"
+  }
+}

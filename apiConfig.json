@@ -1,14 +1,14 @@
 {
   "andros": {
-    "base_url": "http://your-api-server.com/execute",
+    "base_url": "http://170.64.191.203:1900/",
     "username": "Axora",
-    "key": "FMER",
+    "key": "EA24",
     "status": "active"
   },
   "ios": {
-    "base_url": "http://your-api-server.com/execute",
+    "base_url": "http://170.64.191.203:1900/",
     "username": "Axora",
-    "key": "FMER",
+    "key": "EA24",
     "status": "inactive"
   }
 }
